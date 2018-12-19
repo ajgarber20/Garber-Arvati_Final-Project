@@ -1,0 +1,36 @@
+RegionName,CBSA Title,SizeRankMetro,PctPriceCut,DaysOnMarket,BuyerSellerIndex
+"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",1,16.15917292,116,9.585635359
+"Los Angeles-Long Beach-Anaheim, CA","Los Angeles-Long Beach-Anaheim, CA",2,19.12809209,57,4.185082873
+"Chicago, IL","Chicago-Naperville-Elgin, IL-IN-WI",3,23.94017251,79,9.488950276
+"Dallas-Fort Worth, TX","Dallas-Fort Worth-Arlington, TX",4,22.10779184,52,5
+"Philadelphia, PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",5,19.00904444,83,9.150552486
+"Houston, TX","Houston-The Woodlands-Sugar Land, TX",6,20.4394284,68,7.665745856
+"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",7,19.98437547,62,5.732044199
+"Miami-Fort Lauderdale, FL","Miami-Fort Lauderdale-West Palm Beach, FL",8,14.4217495,99,8.024861878
+"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",9,16.66274468,59,2.520718232
+"Boston, MA","Boston-Cambridge-Newton, MA-NH",10,21.08222759,65,7.320441989
+"San Francisco, CA","San Francisco-Oakland-Hayward, CA",11,14.27858213,41,0.400552486
+"Detroit, MI","Detroit-Warren-Dearborn, MI",12,21.8540331,61,6.491712707
+"Riverside, CA","Riverside-San Bernardino-Ontario, CA",13,18.89437745,68,6.947513812
+"Phoenix, AZ","Phoenix-Mesa-Scottsdale, AZ",14,19.31242173,57,4.267955801
+"Seattle, WA","Seattle-Tacoma-Bellevue, WA",15,21.9966396,42,4.516574586
+"Minneapolis-St Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI",16,21.12676056,60,5.904696133
+"San Diego, CA","San Diego-Carlsbad, CA",17,24.80348665,52,5.801104972
+"St. Louis, MO","St. Louis, MO-IL",18,18.51416901,64,5.359116022
+"Tampa, FL","Tampa-St. Petersburg-Clearwater, FL",19,22.27166384,74,8.950276243
+"Baltimore, MD","Baltimore-Columbia-Towson, MD",20,21.84567833,79,9.350828729
+"Denver, CO","Denver-Aurora-Lakewood, CO",21,21.71645598,47,4.502762431
+"Pittsburgh, PA","Pittsburgh, PA",22,18.83743705,78,8.549723757
+"Portland, OR","Portland-Vancouver-Hillsboro, OR-WA",23,22.76498266,51,5.096685083
+"Charlotte, NC","Charlotte-Concord-Gastonia, NC-SC",24,16.9419657,57,2.651933702
+"Sacramento, CA","Sacramento--Roseville--Arden-Arcade, CA",25,22.44881178,49,4.917127072
+"San Antonio, TX","San Antonio-New Braunfels, TX",26,19.66877939,63,5.966850829
+"Orlando, FL","Orlando-Kissimmee-Sanford, FL",27,21.43510055,73,8.604972376
+"Cincinnati, OH","Cincinnati, OH-KY-IN",28,19.02379992,62,4.889502762
+"Cleveland, OH","Cleveland-Elyria, OH",29,17.86743516,67,5.718232044
+"Kansas City, MO","Kansas City, MO-KS",30,15.92470459,54,1.464088398
+"Las Vegas, NV","Las Vegas-Henderson-Paradise, NV",31,23.12292838,53,5.414364641
+"Columbus, OH","Columbus, OH",32,21.03033885,54,4.640883978
+"Indianapolis, IN","Indianapolis-Carmel-Anderson, IN",33,19.8308425,57,4.461325967
+"San Jose, CA","San Jose-Sunnyvale-Santa Clara, CA",34,16.20608899,39,1.312154696
+"Austin, TX","Austin-Round Rock, TX",35,22.4588577,56,5.814917127
